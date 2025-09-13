@@ -1,2 +1,2 @@
-# Smart-ToDo-App
-A simple To-Do application in python to manage daily tasks
+#Smart To-Do App
+A Simple Python console-based To-Do app to manage tasks.
